@@ -12,8 +12,6 @@ https://github.com/anuraghazra/github-readme-stats
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS | Linux" height="32">
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS | Windows" height="32">
- 
-<img src="https://gpvc.arturio.dev/Helvor" alt="Profile Views" height="32">
 
 </p>
 <p align=center>
