@@ -32,9 +32,11 @@ https://github.com/anuraghazra/github-readme-stats
 
 <img src="https://img.shields.io/badge/php-826799.svg?style=for-the-badge&logo=php&logoColor=white" alt="Php" height="32"> 
     
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" height="32">
+<img src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="32">
     
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" height="32">
+<img src="https://img.shields.io/badge/Podman-872ea1.svg?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" height="32">
+    
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" height="32">
 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="32">
 
