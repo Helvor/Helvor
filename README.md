@@ -27,17 +27,17 @@ https://github.com/anuraghazra/github-readme-stats
 <p align=center>
         
 <img src="https://img.shields.io/badge/shell_script-4D356B.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" height="32">
-
+<!--
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="32">
 
 <img src="https://img.shields.io/badge/php-826799.svg?style=for-the-badge&logo=php&logoColor=white" alt="Php" height="32"> 
-    
+-->    
 <img src="https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="32">
-    
+<!--    
 <img src="https://img.shields.io/badge/Podman-872ea1.svg?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" height="32">
     
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html" height="32">
-
+-->
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="32">
 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="32">
